@@ -1,0 +1,50 @@
+##Vowels
+##vowel monophthong diphthong
+vowel AA AE AH AO EH ER IH IY UH AW AY EY OW OY
+high IY IH UW UH
+high-mid EY OW
+low-mid EY OW
+low AE AA
+front E EH EY IY IH AE
+central AH ER
+back AA AO OW UH UW
+monophthong AA AE AH AO EH ER IH IY UH 
+diphthong AW AY EY OW OY
+
+voiceless CH K P T F HH S SH TH
+voiced AA AE AH AO EH ER IH IY UH AW AY EY OW OY W Y L R M N NG L B D G JH DH V Z ZH
+
+##Consonants
+##consonant approximant obstruent
+consonant W Y L R M N NG L DH F HH S SH TH V Z ZH B D G K P T CH JH
+#Obstruents
+##obstruent affricate fricative stop
+obstruent CH JH B D G K P T DH F HH S SH TH V Z ZH
+fricative DH F HH S SH TH V Z ZH
+stop B D G K P T
+affricate CH JH
+
+##Sonorants
+##sonorant approximant nasal
+##approximant glide liquid
+sonorant W Y L R M N NG L
+approximant W Y L R
+glide W Y
+liquid L R
+nasal M N NG
+lateral L
+
+#Places of Articulation
+bilbial B M P
+labiodental F V
+dental DH TH
+alveolar D N R S T Z
+post-alveolar CH JH SH ZH
+palatal Y
+velar G K NG
+glottal H
+labiovelar W
+
+#Other useful classes
+sibilant S CH JH SH Z ZH
+rhotic R ER
